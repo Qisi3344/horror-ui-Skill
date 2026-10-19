@@ -12,3 +12,11 @@
 ```bash
 python desktop_0333.py 1
 ```
+
+## 视频版
+`video_0333.py`：36 秒病娇录屏，需要 ffmpeg。
+
+```bash
+python video_0333.py 1
+```
+[![视频截帧](../../examples/01_video_0333_poster.png)](../../examples/01_video_0333_s1.mp4)
